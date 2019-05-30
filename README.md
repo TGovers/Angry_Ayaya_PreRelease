@@ -4,12 +4,16 @@
 
 **DON’T LIE MY FELLOW ~~WEEBS~~ ANIME ENTHUSIASTS, WE KNOW YOU DO AND _BOY OH BOY_ DO WE HAVE THE PRODUCT FOR YOU!**
 
+![alt text](https://i.imgur.com/BVEH52G.png "Ayaya")
+
 ### /// INTRODUCING ///
 ### /// ANGRY AYAYA ///
 
-![alt text](https://i.imgur.com/BVEH52G.png "Ayaya")
+![alt text](https://i.imgur.com/7Wf6Aga.png "Angry Ayaya")
 
 ## Table of Contents  
+[Angry Ayaya Demostration Videos](#angryayayademonstrationvideos)
+
 [Angry Ayaya TLDR](#angryayayatldr)
 
 [Installation Guide](#installation-guide)
@@ -20,9 +24,20 @@
 
 [License](#license)
 
+<a name="angryayayademonstrationvideos"/>
 <a name="angryayayatldr"/>
 <a name="installationguide"/>
 <a name="angryayayaindepth"/>
+
+## Angry Ayaya Demonstration Videos
+
+### Song Demonstration
+
+[![IMAGE ALT TEXT HERE](https://i.imgur.com/az9tJKi.png)](https://vimeo.com/339302587)
+
+### White Noise Demonstration
+
+[![IMAGE ALT TEXT HERE](https://i.imgur.com/n7VhvBz.png)](https://vimeo.com/339303323)
 
 ## Angry Ayaya TLDR
 
@@ -78,9 +93,15 @@ If you want to essentially “turn off” the distortion, just turn the distorti
 
 Here is a setup that we recommend to get you started with the plugin. It creates a really subtle distortion with just the low frequencies coming through, creating a nice rumble or pulse depending on what you are putting through it.
 
+![alt text](https://i.imgur.com/xx1Yx0v.png "Angry Ayaya Example Setup")
+
 ## Contributing
 
 Currently Angry Ayaya is not open to contribution, but this could change in the future!
+
+Taylor Govers: Processor Editor, Repository/README/License Management, GUI Assistant
+
+Ethan Punter: GUI Editor, Repository Management
 
 ## License
 
