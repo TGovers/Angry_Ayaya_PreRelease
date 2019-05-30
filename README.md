@@ -89,7 +89,7 @@ The Distortion feature has four parameters that you can change; the Drive, Range
 * The Blend knob changes the blend between the distortion and the pre-distortion sound (ie the pure audio with just the IIR filter affecting it)
 * The Volume knob changes the overall volume of the plugin (**this affects the whole plugin** and is used even if you "turn off" the distortion)
 
-If you want to essentially “turn off” the distortion, just turn the distortion Drive, Range and Blend knobs to their lowest values. This is how it would look:
+If you want to essentially “turn off” the distortion, just turn the distortion Drive, Range and Blend knobs to their lowest values.
 
 Here is a setup that we recommend to get you started with the plugin. It creates a really subtle distortion with just the low frequencies coming through, creating a nice rumble or pulse depending on what you are putting through it.
 
