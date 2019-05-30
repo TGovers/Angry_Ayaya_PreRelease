@@ -113,4 +113,4 @@ And of course, huge inspiration from the anime behind the meme [Kiniro Mosaic](h
 
 ## License
 
-[GNU GPLv3](../blob/master/LICENSE.txt)
+[GNU GPLv3](https://github.com/TGovers/Angry_Ayaya/blob/master/LICENSE.txt)
