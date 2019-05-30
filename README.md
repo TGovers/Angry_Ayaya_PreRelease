@@ -95,7 +95,7 @@ Here is a setup that we recommend to get you started with the plugin. It creates
 
 ![alt text](https://i.imgur.com/xx1Yx0v.png "Angry Ayaya Example Setup")
 
-## Contributing
+## Contributing and Inspiration
 
 Currently Angry Ayaya is not open to contribution, but this could change in the future!
 
@@ -103,6 +103,14 @@ Taylor Govers: Processor Editor, Repository/README/License Management, GUI Assis
 
 Ethan Punter: GUI Editor, Repository Management
 
+For this project, we had inspiration and were helped with code by these fellow youtubers. They make awesome work so please check them out and support them!
+
+[The Audio Programmer](https://www.youtube.com/channel/UCpKb02FsH4WH4X_2xhIoJ1A "https://www.youtube.com/channel/UCpKb02FsH4WH4X_2xhIoJ1A")
+
+[Reon Fourie](https://www.youtube.com/watch?v=iNCR5flSuDs&t=2486s "https://www.youtube.com/watch?v=iNCR5flSuDs&t=2486s")
+
+And of course, huge inspiration from the anime behind the meme [Kiniro Mosaic](https://myanimelist.net/anime/16732/Kiniro_Mosaic "https://myanimelist.net/anime/16732/Kiniro_Mosaic"), the creator [Yui Hara](https://myanimelist.net/people/12541/Yui_Hara "https://myanimelist.net/people/12541/Yui_Hara") and the studio that created it [Studio Gokumi](https://en.wikipedia.org/wiki/Studio_Gokumi "https://en.wikipedia.org/wiki/Studio_Gokumi")  
+
 ## License
 
-MIT
+[GNU GPLv3](../blob/master/LICENSE)
